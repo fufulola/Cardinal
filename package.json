@@ -1,0 +1,19 @@
+{
+  "name": "bot_discord",
+  "version": "1.0.0",
+  "description": "toujours active",
+  "main": "index.js",
+  "dependencies": {
+    "animequote": "^1.1.1",
+    "discord-rich-presence": "^0.0.8",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "node-kitsu": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fufu_lola",
+  "license": "ISC"
+}
